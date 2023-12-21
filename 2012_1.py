@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 import plotly
 import plotly.express as px
-import folium
+# import folium
 # позволяет строить несколько графиков на 1 странице
 import plotly.graph_objs as go
 
